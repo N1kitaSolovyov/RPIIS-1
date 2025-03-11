@@ -24,4 +24,5 @@
 :=【Объединение массивов-Операция объединения строк двух двумерных массивов с последующей сортировкой получившихся строк．】
  
 :=【Пересечение массивов-Операция, при которой формируется новый двумерный массив, содержащий только те элементы, которые присутствуют одновременно в соответствующих строках двух массивов．】
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=55&pause=1000&color=85127B&random=false&width=435&lines=Basic methods)](https://git.io/typing-svg)** 
+##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=55&pause=1000&color=85127B&random=false&width=435&lines=Basic+methods)](https://git.io/typing-svg)** 
