@@ -25,7 +25,13 @@
  
 :=【Пересечение массивов-Операция, при которой формируется новый двумерный массив, содержащий только те элементы, которые присутствуют одновременно в соответствующих строках двух массивов．】
 ##
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=55&pause=1000&color=85127B&random=false&width=435&lines=Basic+methods)](https://git.io/typing-svg)** 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=55&pause=1000&color=85127B&random=false&width=435&lines=Described+methods)](https://git.io/typing-svg)** 
 
 
 `global_sort(matrix)`-Все элементы массива объединяются в одномерный массив, сортируются, а затем преобразуются обратно в двумерный массив с сохранением исходного числа строк и столбцов.
+`insert_element(matrix, row_index, element)`-Вставляет элемент в отсортированную строку двумерного массива.
+`search_element(matrix, row_index, element)`-Проверяет наличие элемента в указанной строке двумерного массива.
+`merge_2d_arrays(matrix1, matrix2)`-Объединяет два двумерных массива.
+`intersect_2d_arrays(matrix1, matrix2)`-Находит пересечение строк двух двумерных массивов.
+
+
