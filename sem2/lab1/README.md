@@ -1,5 +1,4 @@
-#
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=55&pause=1000&color=85127B&random=false&width=435&lines=Lab+1)](https://git.io/typing-svg)
+# Лабораторная №1
 
 ##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=55&pause=1000&color=85127B&random=false&width=435&lines=Task)](https://git.io/typing-svg)**
