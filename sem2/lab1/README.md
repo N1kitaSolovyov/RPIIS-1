@@ -28,7 +28,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=55&pause=1000&color=85127B&random=false&width=435&lines=Described+methods)](https://git.io/typing-svg)** 
 
 
-`global_sort(matrix)`-Все элементы массива объединяются в одномерный массив, сортируются, а затем преобразуются обратно в двумерный массив с сохранением исходного числа строк и столбцов.
+
+`global_sort(matrix)`-Все элементы массива объединяются в одномерный массив, сортируются, а затем преобразуются обратно в двумерный массив с сохранением исходного числа строк и столбцов.<img src=![image](https://github.com/user-attachments/assets/1c3fa9f5-7e45-4c37-a21d-17621979c1c7)>
+
 
 `insert_element(matrix, row_index, element)`-Вставляет элемент в отсортированную строку двумерного массива.
 
