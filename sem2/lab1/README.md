@@ -1,4 +1,4 @@
-# Лабораторная работа №1
+![image](https://github.com/user-attachments/assets/d04b393d-7310-4281-90fa-b5341a198255)# Лабораторная работа №1
 
 ## Цели лабораторной работы:
 Разработать библиотеку для работы с деком на выбранном императивном языке программирования (например, C++, Java, Python).
@@ -21,7 +21,7 @@ void CreateDeque(DequeNode** front, DequeNode** rear, int value) {
     *front = *rear = newNode;
 }
 ```
-![pic1](https://github.com/iis-42x70x/RPIIS/blob/Ганецкая_К/sem2/lab1/pic1.png?raw=true)
+![pic1](https://github.com/ksy-sky/kseniya_ganetskaya/blob/main/pic1.png?raw=true)
 
 2. **Алгоритм добавления элемента в начало дека**
    
@@ -42,7 +42,7 @@ void AddToFront(DequeNode** front, DequeNode** rear, int value) {
     }
 }
 ```
-![pic2](https://github.com/iis-42x70x/RPIIS/blob/Ганецкая_К/sem2/lab1/pic2.png?raw=true)
+![pic2](https://github.com/ksy-sky/kseniya_ganetskaya/blob/main/pic2.png?raw=true)
 
 3. **Алгоритм добавления элемента в конец дека**   
 
@@ -63,7 +63,7 @@ void AddToRear(DequeNode** front, DequeNode** rear, int value) {
     }
 }
 ```
-![pic3](https://github.com/iis-42x70x/RPIIS/blob/Ганецкая_К/sem2/lab1/pic3.png?raw=true)
+![pic3](https://github.com/ksy-sky/kseniya_ganetskaya/blob/main/pic3.png?raw=true)
 
 4. **Алгоритм удаления элемента из начала дека**
    
@@ -89,7 +89,7 @@ int RemoveFromFront(DequeNode** front, DequeNode** rear) {
     return value; 
 }
 ```
-![pic4](https://github.com/iis-42x70x/RPIIS/blob/Ганецкая_К/sem2/lab1/pic4.png?raw=true)
+![pic4](https://github.com/ksy-sky/kseniya_ganetskaya/blob/main/pic4.png?raw=true)
 
 5. **Алгоритм удаления элемента из конца дека**
    
@@ -115,7 +115,7 @@ int RemoveFromRear(DequeNode** front, DequeNode** rear) {
     return value; 
 }
 ```
-![pic5](https://github.com/iis-42x70x/RPIIS/blob/Ганецкая_К/sem2/lab1/pic5.png?raw=true)
+![pic5](https://github.com/ksy-sky/kseniya_ganetskaya/blob/main/pic5.png?raw=true)
 
 6. **Алгоритм просмотра элемента дека**
    
@@ -133,7 +133,7 @@ void ViewDeque(int direction, DequeNode* node) {
     cout << endl;
 }
 ```
-![pic6](https://github.com/iis-42x70x/RPIIS/blob/Ганецкая_К/sem2/lab1/pic%206.png?raw=true)
+![pic6](https://github.com/ksy-sky/kseniya_ganetskaya/blob/main/pic%206.png?raw=true)
 
 7. **Алгоритм очистки памяти дека**
    Этот алгоритм очищает дек, освобождая память, выделенную для каждого элемента.
@@ -148,7 +148,7 @@ void ClearDeque(DequeNode** front, DequeNode** rear) {
     rear = nullptr; 
 }
 ```
-![pic7](https://github.com/iis-42x70x/RPIIS/blob/Ганецкая_К/sem2/lab1/pic7.png?raw=true)
+![pic7](https://github.com/ksy-sky/kseniya_ganetskaya/blob/main/pic7.png?raw=true)
 
 ## Вывод:
 
