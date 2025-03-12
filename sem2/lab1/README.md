@@ -31,18 +31,23 @@
 
 
 `global_sort(matrix)`-Все элементы массива объединяются в одномерный массив, сортируются, а затем преобразуются обратно в двумерный массив с сохранением исходного числа строк и столбцов. 
+
 ![image](https://github.com/user-attachments/assets/2c2ca872-b533-43e9-9e67-08c74df6e4ae)
 
 `insert_element(matrix, row_index, element)`-Вставляет элемент в отсортированную строку двумерного массива.
+
 ![image](https://github.com/user-attachments/assets/bdd2faf2-e7b2-43fe-8483-b121f481ef8a)
 
 `search_element(matrix, row_index, element)`-Проверяет наличие элемента в указанной строке двумерного массива.
+
 ![image](https://github.com/user-attachments/assets/d934f9fc-74f8-4e09-9590-287f2f95bcf0)
 
 `merge_2d_arrays(matrix1, matrix2)`-Объединяет два двумерных массива.
+
 ![image](https://github.com/user-attachments/assets/5a6dd5a0-6211-4685-8b36-490d6c760499)
 
 `intersect_2d_arrays(matrix1, matrix2)`-Находит пересечение строк двух двумерных массивов.
+
 ![image](https://github.com/user-attachments/assets/9bcf1458-6166-4378-bc97-3d72911393b5)
 
 
