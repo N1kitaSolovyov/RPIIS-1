@@ -50,6 +50,9 @@
 
 ![image](https://github.com/user-attachments/assets/9bcf1458-6166-4378-bc97-3d72911393b5)
 
+##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=55&pause=1000&color=85127B&random=false&width=435&lines=Example)](https://git.io/typing-svg)
+
 
 
 
