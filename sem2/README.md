@@ -105,7 +105,11 @@ git push -f
 
 
 # Лабораторная работа №1
-
+riihiurtnnbboidnbrithbdiubtibh
+rooirbdg'
+drrpudrgoidrnpding
+### uidbdiurgreuigbd
+# ubhdirugndrg
 
 
 
