@@ -102,6 +102,6 @@ git push -f
 ```
 В результате ветка на удалённом репозитории должна выглядеть примерно следующим образом: 
 ![результат актуализации ветки](img/rebase_result.png)
+ggggvgg
 
-priudghwaeiughwipughzeiuogdriupgszpiudzbiupvgz
 
