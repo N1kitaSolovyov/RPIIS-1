@@ -64,6 +64,7 @@ void AddToRear(DequeNode** front, DequeNode** rear, int value) {
 }
 ```
 ![pic3](https://github.com/iis-42x70x/RPIIS/blob/Ганецкая_К/sem2/lab1/pic3.png?raw=true)
+
 4. **Алгоритм удаления элемента из начала дека**
    
 ```cpp
