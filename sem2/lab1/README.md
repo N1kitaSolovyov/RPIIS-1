@@ -61,6 +61,9 @@
 
 Реализовала структуру данных двумерный ступенчатый массив.Разработала библиотеку алгоритмов обработки структур данных на языке Python.
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=55&pause=1000&color=85127B&random=false&width=435&lines=Sources)](https://git.io/typing-svg)
 
 -https://youtu.be/Uay71yVGBlc?feature=shared
+
+-https://habr.com/ru/articles/760046/
