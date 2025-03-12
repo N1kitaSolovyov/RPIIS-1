@@ -287,4 +287,12 @@ void BFS()
 ![граф3](https://github.com/user-attachments/assets/77f819fe-2f20-4d07-a4d2-c037bfd30553)
 ---
 # Матрица 
+```
+1 1 0 1
+1 0 1 0
+0 1 1 0
+0 0 0 1
+```
+
+
 
