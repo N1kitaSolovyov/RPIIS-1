@@ -59,5 +59,5 @@
 ## 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=55&pause=1000&color=85127B&random=false&width=435&lines=Conclusion)](https://git.io/typing-svg)
 
-Реализовала структуру данных двумерный ступенчатый массив.
+Реализовала структуру данных двумерный ступенчатый массив.Разработала библиотеку алгоритмов обработки структур данных на языке Python.
 
