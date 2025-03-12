@@ -56,5 +56,7 @@
 ![image](https://github.com/user-attachments/assets/c3294f64-0bb0-4c3a-bbd6-5afc7fd81bc2)
 ![image](https://github.com/user-attachments/assets/96b90354-0ea2-4fc5-94fc-f27b0c63e2cf)
 
-
+## 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=55&pause=1000&color=85127B&random=false&width=435&lines=Conclusion)](https://git.io/typing-svg)
+Реализовала структуру данных двумерный ступенчатый массив.
 
