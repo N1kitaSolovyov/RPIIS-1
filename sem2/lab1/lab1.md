@@ -294,5 +294,11 @@ void BFS()
 0 0 0 1
 ```
 
+![Screenshot 2025-03-13 092739](https://github.com/user-attachments/assets/9ac3a9fc-db5d-4b98-97e6-b4d4da5c69cb)
+
+![Screenshot 2025-03-13 092758](https://github.com/user-attachments/assets/e2019550-093b-4bd1-a894-6873e622d2a4)
+![Screenshot 2025-03-13 124032](https://github.com/user-attachments/assets/a82cc0e2-b866-47c8-9d6d-465f02c08f15)
+![Screenshot 2025-03-13 124135](https://github.com/user-attachments/assets/9b081696-b534-4e14-90d3-161e00300f4a)
+![Screenshot 2025-03-13 124219](https://github.com/user-attachments/assets/9ed1138f-b244-45c5-a2b1-5268bb535139)
 
 
