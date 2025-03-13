@@ -134,55 +134,82 @@ bool priorityQueue::isEmpty() const {
 Данная программа проверяет работу функций, созданной библиотеки.
 ```
 #include <iostream>
+#include <limits>
 #include <Windows.h>
 #include "PriorityQueue.h"
+#include <string>
+#include <sstream>
+#include <regex>
+
+using namespace std;
 
 void showMenu() {
-    std::cout << "1. Вставить элемент в приоритетную очередь\n";
-    std::cout << "2. Извлечь элемент с высоким приоритетом\n";
-    std::cout << "3. Проверить, пуста ли очередь\n";
-    std::cout << "4. Выйти\n";
+    cout << "1. Вставить элемент в приоритетную очередь\n";
+    cout << "2. Извлечь элемент с высоким приоритетом\n";
+    cout << "3. Проверить, пуста ли очередь\n";
+    cout << "4. Выйти\n";
+}
+
+bool isValidChoice(const string& input) {
+    return regex_match(input, regex("^[1-4]$"));
 }
 
 int main() {
     setlocale(0, "rus");
     priorityQueue pq;
-    int choice, value;
+    string input;
 
     while (true) {
         showMenu();
-        std::cout << "Введите номер действия: ";
-        std::cin >> choice;
+        cout << "Введите номер действия: ";
+        cin >> input;
+
+        if (!isValidChoice(input)) {
+            cout << "Ошибка: пожалуйста, введите число от 1 до 4.\n";
+            continue;
+        }
+        int choice = stoi(input);
 
         switch (choice) {
         case 1:
-            std::cout << "Введите значение для вставки: ";
-            std::cin >> value;
+        {
+            int value;
+            cout << "Введите значение для вставки: ";
+            cin >> value;
+
+            if (cin.fail()) {
+                cout << "Ошибка: некорректный ввод. Пожалуйста, введите число.\n";
+                cin.clear();
+                cin.ignore((numeric_limits<streamsize>::max)(), '\n');
+                continue;
+            }
+
             pq.insert(value);
-            std::cout << "Элемент " << value << " вставлен.\n";
+            cout << "Элемент " << value << " вставлен.\n";
             break;
+        }
         case 2:
             try {
-                value = pq.extract();
-                std::cout << "Извлеченный элемент: " << value << "\n";
+                int value = pq.extract();
+                cout << "Извлеченный элемент: " << value << "\n";
             }
-            catch (const std::out_of_range& e) {
-                std::cout << e.what() << "\n";
+            catch (const out_of_range& e) {
+                cout << e.what() << "\n";
             }
             break;
         case 3:
             if (pq.isEmpty()) {
-                std::cout << "Очередь пуста.\n";
+                cout << "Очередь пуста.\n";
             }
             else {
-                std::cout << "В очереди есть элементы.\n";
+                cout << "В очереди есть элементы.\n";
             }
             break;
         case 4:
-            std::cout << "Выход из программы.\n";
+            cout << "Выход из программы.\n";
             return 0;
         default:
-            std::cout << "Некорректный выбор. Попробуйте снова.\n";
+            cout << "Некорректный выбор. Попробуйте снова.\n";
         }
     }
 
