@@ -65,5 +65,3 @@
 3. ***Вывод стека, и удаление элементов***
 
    ![img_4.png](img_4.png)
-4. щшхе78е89нзщна8ез9ж yuftyyufiytvougou
-вкпвпкп gdrzrgrgdzvfgggsfgsfsrzgfvzrgzdrzdg rgnzdrybgrzi;vzrdg
