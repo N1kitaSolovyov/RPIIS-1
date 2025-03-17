@@ -159,7 +159,7 @@ void intersection(prikol* mnozhA, prikol* mnozhB, prikol*& mnozhC) {
 <h1 align="center">Тесты:</h1>
 
 * ### Тест №1 (Пересечение)
-  ![Вывод консоли](images/cmd11.png)
+![Вывод консоли](images/cmd11.png)
 
 * ### Тест №2 (Объединение)
 ![Вывод консоли](images/cmd22.png)
